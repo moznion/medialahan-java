@@ -1,15 +1,10 @@
-medialahan
+medialahan-java [![Build Status](https://travis-ci.org/moznion/medialahan-java.svg?branch=master)](https://travis-ci.org/moznion/medialahan-java)
 =============
 
-TBD
+Library to convert between content-type and file extension.
 
 Synopsis
 ---
-
-TBD
-
-Description
---
 
 TBD
 
@@ -23,7 +18,7 @@ License
 
 ```
 The MIT License (MIT)
-Copyright © 2014 moznion, http://moznion.net/ <moznion@gmail.com>
+Copyright © 2016 moznion, http://moznion.net/ <moznion@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
